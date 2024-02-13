@@ -1,6 +1,9 @@
 # Bringing-Order-to-Chaos-Conceptualizing-a-Personal-Research-Knowledge-Graph-for-Scientists
 Bulletin of the Technical Committee on Data Engineering December 2023. Vol. 47, No. 4. IEEE Computer Society
 
+Our paper can be found in ![this edition of the IEEE Computer Society's Bulletin of the Technical Committee on Data Engineering](http://sites.computer.org/debull/A23dec/issue1.htm).
+You can also directly ![find the paper here](http://sites.computer.org/debull/A23dec/p43.pdf).
+
 ## Abstract 
 Research and work-related information is often manifold for a scientist, and the absence of an organizing
 system may impede their research. Information that holds immense personal interest and importance to a
