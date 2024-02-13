@@ -1,8 +1,8 @@
 # Bringing Order to Chaos: Conceptualizing a Personal Research Knowledge Graph for Scientists
 Bulletin of the Technical Committee on Data Engineering December 2023. Vol. 47, No. 4. IEEE Computer Society
 
-Our paper can be found in ![this edition of the IEEE Computer Society's Bulletin of the Technical Committee on Data Engineering](http://sites.computer.org/debull/A23dec/issue1.htm).
-You can also directly ![find the paper here](http://sites.computer.org/debull/A23dec/p43.pdf).
+Our paper can be found in [this edition of the IEEE Computer Society's Bulletin of the Technical Committee on Data Engineering](http://sites.computer.org/debull/A23dec/issue1.htm).
+You can also directly [find the paper here](http://sites.computer.org/debull/A23dec/p43.pdf).
 
 ## Abstract 
 Research and work-related information is often manifold for a scientist, and the absence of an organizing
@@ -21,12 +21,12 @@ and privacy
 
 ## Acknowledgment
 We would like to extend our acknowledgement and gratitude to the following scientists from the Indian Association for the Cultivation of Science, whose inputs helped us pin-point the constituents and utility of the PRKG:
-- ![Prof. Raja Paul](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0051)
-- ![Prof. Debashree Ghosh](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0026)
-- ![Prof. Biman Jana](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0021)
-- ![Dr. Sumanta Chakraborty](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0079)
-- ![Dr. Ritesh Ranjan Pal](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0055)
-- ![Dr. Nabanita Deb](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS098)
+- [Prof. Raja Paul](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0051)
+- [Prof. Debashree Ghosh](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0026)
+- [Prof. Biman Jana](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0021)
+- [Dr. Sumanta Chakraborty](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0079)
+- [Dr. Ritesh Ranjan Pal](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0055)
+- [Dr. Nabanita Deb](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS098)
 
 
 ## Citation
