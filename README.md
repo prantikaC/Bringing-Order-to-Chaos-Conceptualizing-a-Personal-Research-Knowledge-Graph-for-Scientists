@@ -1,7 +1,8 @@
 # Bringing-Order-to-Chaos-Conceptualizing-a-Personal-Research-Knowledge-Graph-for-Scientists
 Bulletin of the Technical Committee on Data Engineering December 2023. Vol. 47, No. 4. IEEE Computer Society
 
-**Abstract**: Research and work-related information is often manifold for a scientist, and the absence of an organizing
+## Abstract 
+Research and work-related information is often manifold for a scientist, and the absence of an organizing
 system may impede their research. Information that holds immense personal interest and importance to a
 scientist may not be relevant to other users, yet it must be easily accessible to the scientist to enhance their
 productivity. We aim to address the need for such a system with our proposal of a knowledge graph for
@@ -15,10 +16,26 @@ and privacy
 
 ![PRKG_Components](https://github.com/prantikaC/Bringing-Order-to-Chaos-Conceptualizing-a-Personal-Research-Knowledge-Graph-for-Scientists/assets/52776878/24546675-ea96-4131-9df5-c0c8cb614203)
 
-**Acknowledgment**: We would like to extend our acknowledgement and gratitude to the following scientists whose inputs helped us pin-point the constituents and utility of the PRKG:
+## Acknowledgment
+We would like to extend our acknowledgement and gratitude to the following scientists whose inputs helped us pin-point the constituents and utility of the PRKG:
 - ![Prof. Raja Paul](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0051)
 - ![Prof. Biman Jana](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0021)
 - ![Dr. Ritesh Ranjan Pal](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0055)
 - ![Dr. Sumanta Chakraborty](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0079)
 - ![Dr. Nabanita Deb](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS098)
 - ![Prof. Debashree Ghosh](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0026)
+
+## Citation
+```
+@article{chakraborty2023bringing,
+  title={Bringing Order to Chaos: Conceptualizing a Personal Research
+  Knowledge Graph for Scientists},
+  author={Chakraborty, Prantika and Dutta, Sudakshina and Sanyal, Debarshi Kumar and Majumdar, Srijoni and Das, Partha Pratim},
+  journal={Bulletin of the Technical Committee on Data Engineering},
+  volume={47},
+  number={4},
+  pages={43-56},
+  year={2023},
+  publisher={IEEE Computer Society}
+}
+```
