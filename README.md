@@ -20,13 +20,14 @@ and privacy
 ![PRKG_Components](https://github.com/prantikaC/Bringing-Order-to-Chaos-Conceptualizing-a-Personal-Research-Knowledge-Graph-for-Scientists/assets/52776878/24546675-ea96-4131-9df5-c0c8cb614203)
 
 ## Acknowledgment
-We would like to extend our acknowledgement and gratitude to the following scientists whose inputs helped us pin-point the constituents and utility of the PRKG:
+We would like to extend our acknowledgement and gratitude to the following scientists from the Indian Association for the Cultivation of Science, whose inputs helped us pin-point the constituents and utility of the PRKG:
 - ![Prof. Raja Paul](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0051)
-- ![Prof. Biman Jana](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0021)
-- ![Dr. Ritesh Ranjan Pal](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0055)
-- ![Dr. Sumanta Chakraborty](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0079)
-- ![Dr. Nabanita Deb](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS098)
 - ![Prof. Debashree Ghosh](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0026)
+- ![Prof. Biman Jana](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0021)
+- ![Dr. Sumanta Chakraborty](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0079)
+- ![Dr. Ritesh Ranjan Pal](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS0055)
+- ![Dr. Nabanita Deb](https://iacs.res.in/athusers/index.php?navid=0&userid=IACS098)
+
 
 ## Citation
 ```
